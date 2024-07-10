@@ -16,7 +16,7 @@ let data = JSON.parse($getData);
 for (const itemt of data) {
     resultContentMainLeftEle += `
     <div class="itemt">
-        <a href="./infomationFirm.html?filmId=${itemt.id}">
+        <a href="./infomationFirm.php?filmId=${itemt.id}">
             <img src="${itemt.anh_phim}" alt="">
             <div class="icont-hover"><i class="fas fa-play-circle"></i></div>
         </a>

@@ -29,7 +29,7 @@ const dataFilm = [
         "the_loai":"Phiêu Lưu - Hành Động, Khoa Học - Viễn Tưởng",
         "noi_dung":"Kamen Rider Black Sun là phiên bản kỷ niệm 50 năm của loạt phim ăn khách và cũng là phiên bản dành riêng cho người lớn (18 ). Nửa thế kỷ trôi qua kể từ khi nước Nhật thừa nhận sự tồn tại của quái vật giữa cuộc sống loài người, một kỷ nguyên hỗn loạn nổ ra. Aoi Izumi, một nhà hoạt động nhân quyền trẻ tuổi kêu gọi xóa bỏ phân biệt đối xử, gặp một người đàn ông và cùng chung tay bảo vệ đất nước.",
         "link_phim" : "https://www.youtube.com/embed/rFaUVm7dSWc",
-        "anh_phim":"https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/5/4573102633309_-_s.h.figuarts_kamen_rider_black_sun_1_.jpg"
+        "anh_phim":"https://m.media-amazon.com/images/M/MV5BNWI5OWEwNTgtMzI5OS00ZmFiLWE3M2YtYWRlMzY2NmI3MjNkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
 
     },
     {
@@ -61,7 +61,7 @@ const dataFilm = [
         "the_loai":"Phiêu Lưu - Hành Động",
         "noi_dung":"Sát Thủ John Wick 4 là câu chuyện với cái giá phải trả ngày càng tăng, John Wick tham gia cuộc chiến chống lại High Table trên toàn cầu khi tìm kiếm những người chơi quyền lực nhất trong thế giới ngầm, từ New York qua Paris, Osaka đến cả Berlin.",
         "link_phim" : "https://www.youtube.com/embed/U8sN4H7jg_k",
-        "anh_phim":"https://ghienphim3.net/uploads/sat-thu-john-wick-phan-4-john-wick-chapter-4_banner_.jpg?v=1680153965"
+        "anh_phim":"https://cdn.sforum.vn/sforum/wp-content/uploads/2023/02/john-wick-4-1.jpg"
 
     },
     {
@@ -109,7 +109,7 @@ const dataFilm = [
         "the_loai":" Võ Thuật - Kiếm Hiệp",
         "noi_dung":"Phi Hồ Ngoại Truyện được chuyển thể từ bộ tiểu thuyết võ thuật nổi tiếng của nhà văn Kim Dung kể về ân oán giữa bốn gia đình Hồ, Miêu, Phạm, Điền. Trong đó Hồ Nhất Đao có ngoại hiệu là Phi thiên hồ ly và Đánh khắp thiên hạ không địch thủ Miêu Nhân Phụng vừa là đối thủ vừa là tri kỷ của nhau. Song vì âm mưu của kẻ thù mà Miêu Nhân Phụng lỡ tay giết chết Hồ Nhất Đao. Bộ phim chủ yếu xoay quanh mối quan hệ tình ái giữa con trai của Hồ Nhất Đao là Hồ Phỉ (có ngoại hiệu Tuyết Sơn Phi Hồ) và Miêu Nhược Lan, con gái của Miêu Nhân Phụng.",
         "link_phim" : "https://www.youtube.com/embed/1IzGL7d3NX4",
-        "anh_phim":"https://newsmd2fr.keeng.net/tiin/archive/imageslead/2022/09/04/90_84362b80d4e0d57d2cf082535ba202e2.jpg"
+        "anh_phim":"https://booking.bhdstar.vn/CDN/media/entity/get/FilmPosterGraphic/HO00002568"
 
     },
     {
@@ -173,7 +173,7 @@ const dataFilm = [
         "the_loai":" Tâm Lý - Tình Cảm",
         "noi_dung":"Chị Chị Em Em 2 dựa trên giai thoại về hai đệ nhất mỹ nhân Sài thành Ba Trà & Tư Nhị, Minh Hằng & Ngọc Trinh mang về doanh thu hơn 120 tỷ đồng, á quân phòng vé ba tuần liên tiếp trên đường đua phim Tết 2023.",
         "link_phim" : "https://www.youtube.com/embed/2s1AsD17c20",
-        "anh_phim":"https://image.mpapis.xyz/poster/chi-chi-em-em-2-11092.jpg"
+        "anh_phim":"https://booking.bhdstar.vn/CDN/media/entity/get/FilmPosterGraphic/HO00002568"
 
     },
     {
@@ -189,7 +189,7 @@ const dataFilm = [
         "the_loai":" Phiêu Lưu - Hành Động",
         "noi_dung":"Đàm Phán kể về một nhà ngoại giao Hàn Quốc được cử đến Afghanistan khi một nhóm du khách Hàn Quốc bị Taliban bắt làm con tin. Khi mọi biện pháp đều thất bại và một con tin bị giết, anh ta buộc phải hợp tác với một đặc vụ để giải cứu những người sống sót.",
         "link_phim" : "https://www.youtube.com/embed/xCQx8Qreyos",
-        "anh_phim":"https://img.cdn.vncdn.io/cinema/img/1769222641137689-5.jpg"
+        "anh_phim":"https://cinema.momocdn.net/img/1769222641137689-5.jpg"
 
     },
     {
@@ -317,7 +317,7 @@ const dataFilm = [
         "the_loai":"Phiêu Lưu - Hành Động",
         "noi_dung":"kể về cuộc đời Kim Do Ki thay đổi từ sau khi mẹ anh bị sát hại bởi một kẻ giết người hàng loạt. Anh trở thành tài xế taxi hạng sang cho hãng taxi Rainbow. Đây không chỉ là một công ty taxi thông thường, mà nó cung cấp dịch vụ trả thù thay cho những người yếu thế theo yêu cầu của họ. Công việc này của hãng dĩ nhiên sẽ bị cảnh sát và bên công tố để ý điều tra. Giữa những người tin rằng sự trả thù là hiện thân của công lý và những người theo đuổi những kẻ ngoài vòng pháp luật, Do Ki sẽ tìm kiếm ý nghĩa thực sự của công lý.",
         "link_phim" : "https://www.youtube.com/embed/EG-6qAB2OQA",
-        "anh_phim":"https://image.mpapis.xyz/poster/an-danh-phan-1-11002.jpg"
+        "anh_phim":"https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
 
     }
 

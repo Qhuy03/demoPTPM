@@ -33,7 +33,7 @@ const handleRegister = (e) => {
         console.log(users);
         users.push(user);
         localStorage.setItem('users', JSON.stringify(users));
-        window.location.href = 'http://127.0.0.1:5500/index.html';
+        window.location.href = 'http://localhost/WebFilm/index.php';
         localStorage.setItem('user_login', user.username );
     }
 }
@@ -45,7 +45,7 @@ const handleLogin = (e) => {
     const users = JSON.parse(localStorage.getItem('users'));
     for(let user of users){
         if($userName == user.username && $pass == user.pass){
-            window.location.href = 'http://127.0.0.1:5500/index.html';
+            window.location.href = 'http://localhost/WebFilm/index.php';
             localStorage.setItem('user_login', user.username );
             // const user = localStorage.getItem('user')
     
